@@ -1,3 +1,3 @@
-# merges-et-conflis
+# merges-et-conflis REMOTE
 
 Hello world, this is a test for the merge and conflis
